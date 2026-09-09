@@ -1,0 +1,6 @@
+data/
+artifacts/
+notebooks/99_visualize.ipynb
+results/
+.DS_Store
+__pycache__
