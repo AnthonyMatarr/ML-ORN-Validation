@@ -1,5 +1,7 @@
 # Geographically External Validation of models in ORN Prediction
 
+<a href="https://doi.org/10.5281/zenodo.22683355"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22683355.svg" alt="DOI"></a>
+
 ## Description
 Models derived from https://github.com/AnthonyMatarr/ML-ORN-Pred-update in a single-institutional cohort of 275 patients from Chang-Gung Memorial Hospital in Taiwan are validated on a geographically external cohort of 30 patients from The Johns Hopkins Hospital in the USA.
 
